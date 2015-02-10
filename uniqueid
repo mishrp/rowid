@@ -1,0 +1,1 @@
+dat$uniqueid=as.numeric(as.factor(with(dat, paste0(var1,"-",var2))))
