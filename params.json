@@ -1,0 +1,1 @@
+{"name":"Rowid","tagline":"unique rowid","body":"dat$uniqueid=as.numeric(as.factor(with(dat, paste0(var1\"-\",var2))))\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
